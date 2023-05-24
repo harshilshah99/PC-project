@@ -1,13 +1,7 @@
 /** @file
   
-  Final Project of Parallel Programming Course
+  Final Project of Parallel Computing 
 
-  Date: 2019/06/17
-  
-  Title: Canny Edge speedup by CUDA parallel - serial version.
-
-  Note: 
-        (1) Boundary computing not verify, it might has some errors.
 
 **/
 
