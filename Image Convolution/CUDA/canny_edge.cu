@@ -1,18 +1,7 @@
 /** @file
   
-  Final Project of Parallel Programming Course
+  Final Project of Parallel Computing
 
-  Date: 2019/06/17
-  
-  Title: Canny Edge speedup by CUDA parallel - parallel version.
-  
-  Note: 
-        (1) Boundary computing not verify, it might has some errors.
-        (2) This version doesn't guarantee CV_PRINT() can work.
-            CV_PRINT() doesn't test with real run.
-        (3) It seems that GPU floating computing has some diff result
-            with CPU, the result raw image has a little difference. (compare binary)
-            But the picture look like the same result
 
 **/
 
